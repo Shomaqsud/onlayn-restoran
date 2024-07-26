@@ -1,0 +1,14 @@
+D:\onlayn restoran\onlaynrestoran\onlaynrestoran\bin\Debug\net6.0\onlaynrestoran.exe
+D:\onlayn restoran\onlaynrestoran\onlaynrestoran\bin\Debug\net6.0\onlaynrestoran.deps.json
+D:\onlayn restoran\onlaynrestoran\onlaynrestoran\bin\Debug\net6.0\onlaynrestoran.runtimeconfig.json
+D:\onlayn restoran\onlaynrestoran\onlaynrestoran\bin\Debug\net6.0\onlaynrestoran.dll
+D:\onlayn restoran\onlaynrestoran\onlaynrestoran\bin\Debug\net6.0\onlaynrestoran.pdb
+D:\onlayn restoran\onlaynrestoran\onlaynrestoran\obj\Debug\net6.0\onlaynrestoran.GeneratedMSBuildEditorConfig.editorconfig
+D:\onlayn restoran\onlaynrestoran\onlaynrestoran\obj\Debug\net6.0\onlaynrestoran.AssemblyInfoInputs.cache
+D:\onlayn restoran\onlaynrestoran\onlaynrestoran\obj\Debug\net6.0\onlaynrestoran.AssemblyInfo.cs
+D:\onlayn restoran\onlaynrestoran\onlaynrestoran\obj\Debug\net6.0\onlaynrestoran.csproj.CoreCompileInputs.cache
+D:\onlayn restoran\onlaynrestoran\onlaynrestoran\obj\Debug\net6.0\onlaynrestoran.dll
+D:\onlayn restoran\onlaynrestoran\onlaynrestoran\obj\Debug\net6.0\refint\onlaynrestoran.dll
+D:\onlayn restoran\onlaynrestoran\onlaynrestoran\obj\Debug\net6.0\onlaynrestoran.pdb
+D:\onlayn restoran\onlaynrestoran\onlaynrestoran\obj\Debug\net6.0\onlaynrestoran.genruntimeconfig.cache
+D:\onlayn restoran\onlaynrestoran\onlaynrestoran\obj\Debug\net6.0\ref\onlaynrestoran.dll
